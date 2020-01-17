@@ -1,0 +1,28 @@
+{
+  "name": "biothings_graphql",
+  "version": "0.0.1",
+  "description": "a nodejs server hosting graphql service to access all biothings apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinxin90/biothings_graphql.git"
+  },
+  "keywords": [
+    "graphql",
+    "biothings",
+    "api",
+    "rest"
+  ],
+  "author": "jiwen xin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinxin90/biothings_graphql/issues"
+  },
+  "homepage": "https://github.com/kevinxin90/biothings_graphql#readme",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  }
+}

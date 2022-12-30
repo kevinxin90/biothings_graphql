@@ -26,6 +26,6 @@
   "homepage": "https://github.com/kevinxin90/biothings_graphql#readme",
   "devDependencies": {
     "istanbul": "^0.4.5",
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   }
 }
